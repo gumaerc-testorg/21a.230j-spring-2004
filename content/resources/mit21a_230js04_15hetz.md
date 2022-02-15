@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource contains the information regarding parenting: changes.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-230j-the-contemporary-american-family-spring-2004/15aef57165c4238029e15418049850d4_MIT21A_230JS04_15hetz.pdf
+file: /media/courses/21a-230j-the-contemporary-american-family-spring-2004/15aef57165c4238029e15418049850d4_MIT21A_230JS04_15hetz.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Parenting: Changes'
 uid: 15aef571-65c4-2380-29e1-5418049850d4
