@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Readings
 uid: a8c91656-30e7-e2ab-2d1b-c7509cb2350f
 ---
 
-How to Read Profitably ([PDF]({{< baseurl >}}/resources/mit21a_230js04_onreading))
+How to Read Profitably ({{% resource_link 4d045f5b-7753-aa14-5d10-60ac70d3e530 "PDF" %}})
 
 Required Books
 --------------
@@ -71,7 +72,7 @@ Giddens. "The Global Revolution in Family and Personal Life." in Skolnick and Sk
 Coontz. "Introduction," and "Getting Past the Sound Bites: How History and Sociology Can Help Today's Families." in Coontz, pp. 1-32.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_2sklnik))
+({{% resource_link 2cb9a2f0-32e4-3474-2aeb-6f2064aafba6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +93,7 @@ Cott. "Divorce and the Changing Status of Women in Eighteenth-Century Massachuse
 Morgan. "The Puritans and Sex." in Skolnick and Skolnick, pp. 311-320.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_3sklnik))
+({{% resource_link 7c408d68-4ca5-4614-d3d9-638c6f1300d3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +114,7 @@ Gutman. "Persistent Myths about the Afro-American Family." in Hutter, pp. 459-4
 Hutter. "Immigrant Families in the City." in Hutter. pp. 22-29.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_4wlter))
+({{% resource_link 1b552834-b660-2212-abb9-19c0da4de252 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +133,7 @@ Coontz. "What We Really Miss about the 1950s." in Coontz, pp. 33-50.
 Wolf. _The House of Lim: A Study of a Chinese Farm Family._ pp. iv-xii; 1-22.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_5wolf))
+({{% resource_link 43c2473c-a90a-6e0b-69c8-e6c57c26527f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +186,7 @@ Sherif. "Islamic Family Ideals and Their Relevance to American Muslim Families."
 Pyke. "'The Normal American Family' as an Interpretive Structure of Family Life among Grown Children of Korean and Vietnamese Immigrants." in Skolnick and Skolnick. pp. 436-456 and in Hutter. pp. 300-318.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_8talor))
+({{% resource_link bfcefb35-2f96-1b74-3e64-e99fa53d0e71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +230,7 @@ di Leonardo. "The Female World of Cards and Holidays: Women, Families, and the W
 Rossa, La, Jaret, Gadgil, and Wynn. "The Changing Culture of Fatherhood in Comic-Strip Families: A Six-Decade Analysis." in Hutter, pp. 275-289.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_10jakon))
+({{% resource_link 9ee68b4f-7d0e-cc68-41b1-bd7009f9344f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +251,7 @@ Berkowitz, and Padavic. "Getting a Man or Getting Ahead." in Hutter, pp. 132-1
 D'Emilio, and Freedman. "The Sexualized Society." in Hutter, pp. 351-365.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_11clak))
+({{% resource_link 22e4ff91-4a15-75ef-0270-7e790b233f9b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +272,7 @@ Llaner, and Ventrone. "Dating Scripts Revisited." in Skolnick and Skolnick, pp.
 Lessinger. "Asian Indian Marriages - Arranged, Semi-Arranged, or Based on Love." in Hutter, pp. 147-150.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_12cancin))
+({{% resource_link 6c4f6338-2b25-b1ee-5189-14f7a06a0428 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,7 +293,7 @@ Furstenberg. "The Future of Marriage." in Skolnick and Skolnick, pp. 171-177.
 Sanchez, Nock, Wright, and Gager. "Setting the Clock Forward or Back? Covenant Marriage and the 'Divorce Revolution'." in Hutter, pp. 41-62.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_13kmn))
+({{% resource_link 6ec7b7ac-dad9-6b1f-28bc-fa0b8e7debda "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -313,7 +314,7 @@ Mannis. "Single Mothers by Choice." in Hutter, pp. 231-243.
 Mason, Fine, and Carnochan. "Family Law in the New Millennium: For Whose Families?" in Skolnick and Skolnick, pp. 76-90 and in Hutter, pp. 433-447.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_14colins))
+({{% resource_link 1d060c41-a5d1-1903-c5e2-acc17b988c3b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +335,7 @@ Galinsky. "What Children Think about Their Working Parents." Edited by Skolnick.
 Coltrane, and Adams. "Men's Family Work: Child-Centered Fathering and the Sharing of Domestic Labor." Edited by Skolnick. pp. 115-128.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_15hetz))
+({{% resource_link 15aef571-65c4-2380-29e1-5418049850d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -393,7 +394,7 @@ Cherlin. "Going to Extremes: Family Structure, Children's Well-Being, and Social
 Amato. "The Consequences of Divorce for Adults and Children." in Skolnick and Skolnick, pp. 190-214.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_18arndel))
+({{% resource_link 3f06468b-4394-e9ef-8ba9-af9f4a7c1166 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -412,7 +413,7 @@ Johnson, and Ferraro. "Research on Domestic Violence in the 1990s: Making Distin
 Straus. "Ten Myths that Perpetuate Corporal Punishment." in Hutter,. pp. 341-350.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_19godrum))
+({{% resource_link 93e80c1c-176f-1a52-8aba-8c775f037b09 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -433,7 +434,7 @@ Hochschild. "There's No Place Like Work." in Hutter, pp. 190-198.
 Gerson, and Jacobs. "Changing the Structure and Culture of Work: Work and Family Conflict, Work Flexibility, and Gender Equity in the Modern Workplace." in Skolnick and Skolnick, pp. 349-364.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_20contz))
+({{% resource_link d72c929f-a93c-f8e0-9f3f-70f2301df4ba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -452,7 +453,7 @@ Newman. "Family Values against the Odds." in Skolnick and Skolnick, pp. 320-33
 Rubin. "Families on the Fault Line." in Skolnick and Skolnick, pp. 303-319.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_21contz))
+({{% resource_link f0c3ccac-de1e-1bd3-5a20-9001830136e7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -471,7 +472,7 @@ Vanderstaay. "Karla and the Armstrongs: Two Oral Histories of Homeless American 
 Stack. _Call to Home: African Americans Reclaim the Rural South._ in Stack, pp. 1-44.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_22edin))
+({{% resource_link 1494775a-79ca-4b1f-a527-be93efc372f7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -486,7 +487,7 @@ Economic Issues and Problems IV: Differential Rates of Poverty in Racial and Eth
 Stack. pp. 45-106.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_23stack))
+({{% resource_link 444ab236-e514-e5f6-8551-5b54805c6aeb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -524,7 +525,7 @@ Coontz. "How Ignoring Historical and Societal Change Puts Kids at Risk." in Coon
 ———. "Working with What We've Got: The Strengths and Vulnerabilities of Today's Families." in Coontz, pp. 157-177.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_25prdo))
+({{% resource_link 4fe3f8d0-a78a-06ab-f81d-492c31496cd5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -543,7 +544,7 @@ Bengtson. "Beyond the Nuclear Family: The Increasing Importance of Multigenerati
 Hutter. "Intimate Strangers: The Elderly and Homecare Worker Relationships." in Hutter, pp. 290-300.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_230js04_26bngtsn))
+({{% resource_link 3d29bf6e-2da1-22f7-49fc-2918a5313eec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
