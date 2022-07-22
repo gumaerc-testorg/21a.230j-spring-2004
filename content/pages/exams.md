@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 8f044261-1bd8-fc88-5d4c-bda1a585f0b0
 ---
@@ -31,7 +35,7 @@ Write on one side of the page.
 
 We will provide the blue books.
 
-Study questions for the final exam ([PDF]({{< baseurl >}}/resources/mit21a_230js04_study_ques))
+Study questions for the final exam ({{% resource_link 9b1136ff-8118-f785-d81b-d974e3dd9ff0 "PDF" %}})
 
 Final Exam
 ----------
