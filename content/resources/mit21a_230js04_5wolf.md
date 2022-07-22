@@ -6,6 +6,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/43c2473ca90
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Definition of the Family I
 uid: 43c2473c-a90a-6e0b-69c8-e6c57c26527f
 ---
 This resource contains the information regarding definition of the family I.
-

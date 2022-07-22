@@ -5,6 +5,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/2bdf20f0604
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Second Writing Assignment
 uid: 2bdf20f0-604b-e40d-f57c-6c6a1d7a9302
 ---
 This resource contains the information regarding Second Writing Assignment.
-

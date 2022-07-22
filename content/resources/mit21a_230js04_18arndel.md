@@ -5,6 +5,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/3f06468b439
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Divorce II
 uid: 3f06468b-4394-e9ef-8ba9-af9f4a7c1166
 ---
 This resource contains the information regarding divorce II.
-

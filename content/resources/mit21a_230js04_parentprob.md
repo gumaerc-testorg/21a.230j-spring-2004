@@ -5,6 +5,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/08eb6ba239f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Parenting: Problems'
 uid: 08eb6ba2-39fb-ea35-dfc4-387354666b39
 ---
 This resource contains the information regarding Parenting: Problems.
-

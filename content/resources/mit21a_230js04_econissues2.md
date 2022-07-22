@@ -6,6 +6,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/02bdc4033f2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Economic Issues and Problems II: Economic Change'
 uid: 02bdc403-3f24-d037-c340-2a312557f3b7
 ---
 This resource contains the information regarding Economic Issues and Problems II: Economic Change.
-

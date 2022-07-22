@@ -5,6 +5,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/69d5aa4f196
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Parenting: Changes'
 uid: 69d5aa4f-1968-b469-d591-4a9a50af1de5
 ---
 This resource contains the information regarding Parenting: Changes.
-

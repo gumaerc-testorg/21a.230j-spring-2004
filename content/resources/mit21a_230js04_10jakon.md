@@ -6,6 +6,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/9ee68b4f7d0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Effects of Changing Gender Roles on the Family
 uid: 9ee68b4f-7d0e-cc68-41b1-bd7009f9344f
 ---
 This resource contains the information regarding the effects of changing gender roles on the family.
-

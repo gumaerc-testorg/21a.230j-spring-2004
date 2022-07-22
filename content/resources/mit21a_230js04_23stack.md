@@ -6,6 +6,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/444ab236e51
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Economic Issues and Problems IV: Differential Rates of Poverty in Racial
 uid: 444ab236-e514-e5f6-8551-5b54805c6aeb
 ---
 This resource contains the information regarding economic issues and problems IV: differential rates of poverty in racial and ethnic groups.
-

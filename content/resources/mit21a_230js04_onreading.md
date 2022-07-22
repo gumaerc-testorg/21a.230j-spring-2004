@@ -5,6 +5,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/4d045f5b775
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: How to Read Profitably
 uid: 4d045f5b-7753-aa14-5d10-60ac70d3e530
 ---
 This resource contains the information regarding how to read profitably.
-

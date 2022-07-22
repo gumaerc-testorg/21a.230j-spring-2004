@@ -6,6 +6,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/7830fb95450
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The US and Sweden ("The Ultimate Welfare State") Compared
 uid: 7830fb95-450c-a599-fa0d-84660b7a82d8
 ---
 This resource contains the information regarding The US and Sweden ("The Ultimate Welfare State") Compared.
-

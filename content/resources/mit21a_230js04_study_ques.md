@@ -6,6 +6,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/9b1136ff811
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Study questions for the final exam
 uid: 9b1136ff-8118-f785-d81b-d974e3dd9ff0
 ---
 This resource contains the information regarding Study questions for the final exam.
-

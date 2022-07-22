@@ -6,6 +6,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/d72c929fa93
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Economic Issues and Problems I: Work - at Home and in the Workplace'
 uid: d72c929f-a93c-f8e0-9f3f-70f2301df4ba
 ---
 This resource contains the information regarding economic issues and problems I: work - at home and in the workplace.
-

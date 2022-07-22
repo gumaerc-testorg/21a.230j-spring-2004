@@ -6,6 +6,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/1b552834b66
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Family in the Past II
 uid: 1b552834-b660-2212-abb9-19c0da4de252
 ---
 This resource contains the information regarding the family in the past II.
-

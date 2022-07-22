@@ -5,6 +5,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/93e80c1c176
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Violence in the Family
 uid: 93e80c1c-176f-1a52-8aba-8c775f037b09
 ---
 This resource contains the information regarding violence in the family.
-

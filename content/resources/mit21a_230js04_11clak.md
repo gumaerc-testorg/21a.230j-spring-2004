@@ -6,6 +6,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/22e4ff914a1
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Sexuality: The Social Context I'
 uid: 22e4ff91-4a15-75ef-0270-7e790b233f9b
 ---
 This resource contains the information regarding sexuality: the social context I.
-

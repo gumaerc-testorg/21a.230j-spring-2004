@@ -5,6 +5,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/0a46c47da0d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: First Writing Assignment
 uid: 0a46c47d-a0d5-25e5-ddf7-bb9479c26062
 ---
 This resource contains the information regarding First Writing Assignment.
-

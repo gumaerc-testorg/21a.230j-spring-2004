@@ -6,6 +6,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/28fad7e28c9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Marriage: Definitions, Functions, Variability'
 uid: 28fad7e2-8c92-d1fc-6836-d7f1f38529f5
 ---
 This resource contains the information regarding Marriage: Definitions, Functions, Variability.
-

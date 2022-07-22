@@ -6,6 +6,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/bfcefb352f9
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Definition of the Family IV: Ethnic and Social Class Variability'
 uid: bfcefb35-2f96-1b74-3e64-e99fa53d0e71
 ---
 This resource contains the information regarding definition of the family IV: ethnic and social class variability.
-

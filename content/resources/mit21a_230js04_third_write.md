@@ -5,6 +5,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/f73af3de0b1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Third Writing Assignment
 uid: f73af3de-0b12-d633-5145-f19dff72c786
 ---
 This resource contains the information regarding Third Writing Assignment.
-

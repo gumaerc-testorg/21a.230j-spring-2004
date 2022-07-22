@@ -6,6 +6,7 @@ file: /courses/21a-230j-the-contemporary-american-family-spring-2004/1494775a79c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Economic Issues and Problems III: Poverty, Genteel and Brutal'
 uid: 1494775a-79ca-4b1f-a527-be93efc372f7
 ---
 This resource contains the information regarding economic issues and problems III: poverty, genteel and brutal.
-
